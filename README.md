@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/60d9de_50c9bbc9cf744b9d831463aaf7aaa9dc~mv2.gif)]()
+[![MasterHead](https://soan.netlify.app/assets/images/website-designing.gif)]()
 <h1 align="center">Olá 👋, Me chamo Anderson</h1>
 <h3 align="center">Desenvolvedor Full Stack e Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">

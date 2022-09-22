@@ -36,6 +36,4 @@
 </p>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andscunha&show_icons=true&locale=en&theme=dark" alt="andscunha" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andscunha&show_icons=true&locale=en&layout=compact&theme=dark" alt="andscunha" /></p>

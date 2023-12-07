@@ -5,7 +5,7 @@
 
 - 🌱 Aprendendo atualmente: **Python**
 
-- 📫 Entre em contato **Ands1776@gmail.com**
+- 📫 Entre em contato: **Ands1776@gmail.com**
 
 <h3 align="left">Conect comigo:</h3>
 <p align="left">

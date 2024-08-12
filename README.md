@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Anderson</h1>
-<h3 align="center">Desenvolvedor Full Stack e Designer</h3>
+<h3 align="center">Desenvolvedor Front-End e Web Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🌱 Aprendendo atualmente: **Rust**

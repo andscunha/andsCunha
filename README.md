@@ -22,4 +22,4 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <br>
-<img alt="ands" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andscunha&theme=cobalt&layout=compact"/>
+<img alt="ands" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andscunha&theme=dark&layout=compact"/>

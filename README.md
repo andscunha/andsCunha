@@ -23,4 +23,4 @@
 </p>
 
 <br>
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=andscunha&locale=en&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=andscunha&hide_progress=true&theme=dark&locale=br&show_icons=true)" alt="andscunha" /></p>
+<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andscunha&layout=compact)</p>

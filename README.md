@@ -9,7 +9,7 @@
 <h3 align="left">Linguagens e Ferramentas mais utilizadas:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,html,css,js,nodejs,react,ts,figma,ps,ai&perline=3" />
+    <img src="https://skillicons.dev/icons?i=linux,html,css,js,nodejs,react,ts,figma,ps,ai&perline=5" />
   </a>
 </p>
 <br>

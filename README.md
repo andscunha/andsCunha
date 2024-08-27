@@ -6,10 +6,10 @@
 
 - 📫 Entre em contato: **Ands1776@gmail.com**
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Linguagens e Ferramentas mais utilizadas:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,html,css,js,nodejs,react,ts,figma,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=linux,html,css,js,nodejs,react,ts,figma,ps,ai&perline=3" />
   </a>
 </p>
 <br>

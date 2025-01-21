@@ -8,7 +8,7 @@
 
 <h3 align="left">Linguagens e Ferramentas mais utilizadas:</h3>
 <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=linux,html,css,js,nodejs,react,ts,mysql,mongodb,docker,figma,ps,ai&perline=5" />
+    <img src="https://skillicons.dev/icons?i=linux,html,css,wordpress,js,react,ts,nodejs,php,py,mysql,mongodb,docker,figma,ps,ai&perline=5" />
 </p>
 <br>
 <img alt="ands" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andscunha&theme=dark&layout=compact&locale=pt-br"/>

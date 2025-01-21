@@ -8,9 +8,7 @@
 </p>
 
 - 🌱 Aprendendo atualmente: **Rust**
-
-
-
+<br>
 - 📫 Entre em contato: **prodesign.anderson@gmail.com**
 
 <br>

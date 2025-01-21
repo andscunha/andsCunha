@@ -4,7 +4,7 @@
 
 - 🌱 Aprendendo atualmente: **Rust**
 
-- 📫 Entre em contato: **Ands1776@gmail.com**
+- 📫 Entre em contato: **prodesign.anderson@gmail.com**
 
 <h3 align="left">Linguagens e Ferramentas mais utilizadas:</h3>
 <p align="left"> 

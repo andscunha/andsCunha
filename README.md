@@ -11,5 +11,3 @@
 
 <br>
 <img alt="ands" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andscunha&theme=dark&layout=compact&locale=pt-br"/>
-
-- 📫 Entre em contato: **prodesign.anderson@gmail.com**

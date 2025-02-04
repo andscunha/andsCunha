@@ -4,7 +4,7 @@
 
 <h3 align="left">Linguagens e Ferramentas mais utilizadas:</h3>
 <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=linux,html,css,wordpress,js,react,ts,nodejs,php,py,mysql,mongodb,docker,figma,ps,ai&perline=5" />
+    <img src="https://skillicons.dev/icons?i=linux,html,css,js,php,py,nodejs,react,ts,tailwind,vue,flutter,mysql,mongodb,docker,wordpress,figma,ps,ai&perline=5" />
 </p>
 
 - 🌱 Aprendendo atualmente: **Rust**

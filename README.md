@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=linux,html,css,js,php,py,nodejs,react,ts,tailwind,vue,flutter,mysql,mongodb,docker,wordpress,figma,ps,ai&perline=5" />
 </p>
 
-- 🌱 Aprendendo atualmente: **Rust**
+- 🌱 Aprendendo atualmente: **Angular**
 
 <br>
 <img alt="ands" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andscunha&theme=dark&layout=compact&locale=pt-br"/>
